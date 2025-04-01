@@ -1,0 +1,4 @@
+# ei lisata tiedostoja, jotka paattyvat .in, .out, .pyc
+*.in
+*.out
+*.pyc
